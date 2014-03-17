@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleHotels</string>
+    <string name="app_list">Hotel List</string>
+    <string name="on">San Francisco</string>
+    <string name="off">Minnesota</string>
+    <string name="map">View on Map</string>
+</resources>
